@@ -6,6 +6,10 @@
 - API 데이터 수집
 - API 데이터 호출
 
+#### 환경
+- API test : https://jsonplaceholder.typicode.com/
+
 #### swagger example
+http://localhost:8080/docs/index.html
 http://localhost:8080/swagger-ui/index.html
 http://localhost:8080/api/v1/get-api/hello

@@ -1,0 +1,11 @@
+exaple
+https://jsonplaceholder.typicode.com/
+###
+
+GET https://jsonplaceholder.typicode.com/comments?postId=1
+###
+GET https://jsonplaceholder.typicode.com/users
+
+###
+GET https://jsonplaceholder.typicode.com/comments
+Content-Type: application/json; charset=utf-8
